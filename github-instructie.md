@@ -70,9 +70,13 @@ git push -u origin main
 
 Na deze stap staat het project in jouw eigen repository op GitHub.
 
+Stap 8: switch van branch
 
-Stap 8: Sla wijzigingen op en push opnieuw
+git checkout -b branch-name
 
+Stap 9: Sla wijzigingen op en push opnieuw
+
+Pas iets aan in een van de files. Sla de file op (ctrl s)
 Als je iets hebt aangepast, gebruik je steeds deze commando’s:
 
 git add .
