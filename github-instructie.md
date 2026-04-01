@@ -70,14 +70,8 @@ git push -u origin main
 
 Na deze stap staat het project in jouw eigen repository op GitHub.
 
-Stap 8: Werk verder aan de opdracht
 
-Open het project in je editor en maak de opdrachten.
-
-Bijvoorbeeld in VS Code:
-
-code .
-Stap 9: Sla wijzigingen op en push opnieuw
+Stap 8: Sla wijzigingen op en push opnieuw
 
 Als je iets hebt aangepast, gebruik je steeds deze commando’s:
 
