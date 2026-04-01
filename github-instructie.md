@@ -13,6 +13,8 @@ Gebruik deze handleiding om de opdracht van de trainer op te halen en daarna in 
 
 ## Stap 1: Clone de repository van de trainer
 
+Klik op Open folder binnen vscode en ga naar de map python-projects op je c schijf
+
 Open je terminal en voer dit commando uit:
 
 ```bash
